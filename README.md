@@ -1,24 +1,5 @@
-# pesstep
+# PES STEP
 
-## Project setup
-```
-npm install
-```
+Website for IEEE PES STEP 2020 hosted by IEEE PES Kerala Section
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Live Preview](https://pesstep-c8326.web.app/)
